@@ -10,7 +10,7 @@ A Python tool for analyzing company expenses with department breakdowns, trend d
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/expense-analyzer.git
+git clone https://github.com/bekfastjam/expense-analyzer.git
 cd expense-analyzer
 pip install -r requirements.txt
 ```
