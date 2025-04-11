@@ -3,10 +3,10 @@
 A Python tool for analyzing company expenses with department breakdowns, trend detection, and budget alerts.
 
 ## Features
-- 📊 Expense categorization by department
-- ⚠️ High-expense flagging
-- 📈 Percentage-based spending analysis
-- 📂 CSV data processing
+- Expense categorization by department
+- Flagging high expenses
+- Percentage-based spending analysis
+- CSV data processing
 
 ## Setup
 ```bash
